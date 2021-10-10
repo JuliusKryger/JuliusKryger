@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="left" id="macropower-title">:wave: Hello there!</h1>
 
-<!--
-**JuliusKryger/JuliusKryger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://github.com/JuliusKryger/JuliusKryger">
+    <img src="https://komarev.com/ghpvc/?username=JuliusKryger" alt="page views" />
+  </a>
+  <a href="https://github.com/JuliusKryger?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/JuliusKryger?color=green&logo=github">
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="#JuliusKryger-title">
+  <img src="https://raw.githubusercontent.com/JuliusKryger/github-stats-transparent/output/generated/overview.svg" alt="JuliusKryger" align="right" />
+</a>
