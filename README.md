@@ -9,6 +9,5 @@
   </a>
 </p>
 
-<a href="#JuliusKryger-title">
-  <img src="https://raw.githubusercontent.com/JuliusKryger/github-stats-transparent/output/generated/overview.svg" alt="JuliusKryger" align="right" />
-</a>
+![Julius Krüger's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliusKryger&show_icons=true&count_private=true&theme=dark)
+
