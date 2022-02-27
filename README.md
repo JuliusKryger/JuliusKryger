@@ -14,4 +14,4 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusKryger&langs_count=2)](https://github.com/JuliusKryger/github-readme-stats)-->
 
 
-  ![TryHackMe stats](https://tryhackme.com/badge/912266)
+  ![TryHackMe stats](https://tryhackme-badges.s3.amazonaws.com/Kruger.png" alt="TryHackMe)
