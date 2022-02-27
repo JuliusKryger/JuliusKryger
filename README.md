@@ -10,7 +10,7 @@
 </p>
 
   
-  ![TryHackMe stats](https://tryhackme-badges.s3.amazonaws.com/Kruger.png" alt="TryHackMe)
+  ![TryHackMe stats](https://tryhackme-badges.s3.amazonaws.com/Kruger.png)
 
   ![Julius Krüger's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliusKryger&show_icons=true&count_private=true&theme=github_dark)
 
