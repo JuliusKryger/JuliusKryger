@@ -11,6 +11,6 @@
 
   ![Julius Krüger's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliusKryger&show_icons=true&count_private=true&theme=github_dark)
   
-  ![TryHackMe stats](<img src="https://tryhackme-badges.s3.amazonaws.com/Kruger.png" alt="TryHackMe">)
+  ![TryHackMe stats](https://tryhackme-badges.s3.amazonaws.com/Kruger.png)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusKryger&langs_count=2)](https://github.com/JuliusKryger/github-readme-stats)-->
