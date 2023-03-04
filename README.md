@@ -1,5 +1,3 @@
-<h1 align="left" id="JuliusKryger">:wave: Hey!</h1>
-
 <p align="left">
   <a href="https://github.com/JuliusKryger/JuliusKryger">
     <img src="https://komarev.com/ghpvc/?username=JuliusKryger" alt="page views" />
@@ -9,20 +7,10 @@
   </a>
 </p>
 
-  ![Julius Krüger's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliusKryger&show_icons=true&count_private=true&theme=github_dark)
-  
-  ![TryHackMe stats](https://tryhackme-badges.s3.amazonaws.com/Kruger.png)
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusKryger&langs_count=2)](https://github.com/JuliusKryger/github-readme-stats)-->
-
-
-
 ## Hi there! 👋
 
-My name is Julius Krüger Madsen, and I'm a software development student at Copenhagen Business Academy. 
+My name is Julius Krüger Madsen, and I'm a software development student at Copenhagen Business Academy. In my free time i mostly code in Python ![Python logo](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), but I also have experience with a variety of other programming languages and technologies, including :
 
-👨‍💻 I have experience with the following programming languages and technologies:
-- Python ![Python logo](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - Java ![Java logo](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 - JavaScript ![JavaScript logo](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - React ![React logo](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
