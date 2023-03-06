@@ -22,6 +22,6 @@ My name is Julius Krüger Madsen, and I'm a software development student at Cope
 - T-SQL 
 - Jupyter Notebooks 
 
-Currently, my GitHub profile primarily features school projects, but I plan on adding more unique and interesting projects soon. My goal is to showcase my skills and experience as a developer, and to contribute to the open-source community.
+Currently, my GitHub profile primarily features school projects.
 
-Thanks for stopping by, and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/julius-kruger/)!
+Thanks for stopping by. 
