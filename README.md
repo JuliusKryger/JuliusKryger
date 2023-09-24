@@ -8,50 +8,41 @@
 </p>
 
 
-# Hej, jeg er Julius Krüger! 👋
+# Hey, my name is Julius Krüger! 👋
 
-Jeg er en softwareudvikler med passion for teknologi og konstant læring. Med en uddannelse som datamatiker og snart en Bachelor of Applied Science i softwareudvikling fra Copenhagen Business Academy, har jeg opnået et solidt fundament inden for Software Development.
+I am a softwaredeveloper with a passion for technology. I am constantly seeking new knowledge and trying to improve my skills. I am soon done with my Bachelor of Applied Science in softwaredevelopment from Copenhagen Business Academy.
 
-🔭 Jeg arbejder for tiden på forskellige personlige projekter og forbedrer mine færdigheder inden for:
-
-- Python
-- Java
-- JavaScript
-- ReactJS
-- Jupyter Notebooks
+🔭 Skills I am actively trying to improve:
+- C#
+- Typescript
 - Docker
+- Linux
 
-🌱 Jeg er altid nysgerrig og interesseret i at lære om nye teknologier og koncepter inden for softwareudvikling.
-
-📫 Kontakt mig:
+📫 Contact:
 - E-mail: 2330051117@protonmail.com
 - LinkedIn: www.linkedin.com/in/julius-kruger
 - Github: github.com/JuliusKryger
 
-💼 Arbejdserfaring:
-- NorthTech ApS (Praktik og hovedopgave)
+💼 Work Experience:
+- Student Assistant (Man Energy Solutions)
+- NorthTech ApS (Internship)
 
-🎓 Uddannelse:
-- Copenhagen Business Academy, Bachelor of Applied Science, Softwareudvikling
+🎓 Education:
+- Copenhagen Business Academy, Bachelor of Applied Science, Softwaredevelopment
 - Copenhagen Business Academy, Datamatiker AK, Computer Science
 
-🏆 Certificeringer:
+🏆 Certs:
 - Pre Security on Tryhackme.com
 
-🔧 Nogle af mine tekniske færdigheder inkluderer:
+🔧 A small preview of some of my technical skills:
 - Linux
-- Git
-- HTML
-- CSS
+- Python
 - TypeScript
-- Data Science
-- Machine Learning
-- Data Visualization
-- Agile Software Development
-- Scrum
-- C#
+- Java
+- JavaScript
+- Machine Learning / AI-development
+- Different DBs (MYSQL, MSSQL, Neo4J, Redis, MongoDB)
 - T-SQL
-- MongoDB
-- MYSQL
-- MSSQL
-- Neo4J
+- Git
+- React
+- Angular
