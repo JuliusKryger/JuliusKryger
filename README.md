@@ -21,7 +21,8 @@ I am a softwaredeveloper with a passion for technology. I am constantly seeking 
 📫 Contact:
 - E-mail: 2330051117@protonmail.com
 - LinkedIn: www.linkedin.com/in/julius-kruger
-- Github: github.com/JuliusKryger
+- Organization: [Dare-Share-Care](https://github.com/Dare-Share-Care)
+
 
 💼 Work Experience:
 - Student Assistant (Man Energy Solutions)
