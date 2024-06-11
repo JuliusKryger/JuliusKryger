@@ -8,42 +8,56 @@
 </p>
 
 
-# Hey, my name is Julius Krüger! 👋
+# Julius Krüger
 
-I am a softwaredeveloper with a passion for technology. I am constantly seeking new knowledge and trying to improve my skills. I am soon done with my Bachelor of Applied Science in softwaredevelopment from Copenhagen Business Academy.
+---
 
-🔭 Skills I am actively trying to improve:
-- C#
-- Typescript
-- Docker
-- Linux
+### 💼 Work in Progress
 
-📫 Contact:
-- E-mail: 2330051117@protonmail.com
-- LinkedIn: www.linkedin.com/in/julius-kruger
+---
+
+### 📫 Contact:
+- [E-mail](mailto:2330051117@protonmail.com)
+- [LinkedIn](https://www.linkedin.com/in/julius-kruger)
 - Organization: [Dare-Share-Care](https://github.com/Dare-Share-Care)
 
+---
 
-💼 Work Experience:
-- Student Assistant (Man Energy Solutions)
-- NorthTech ApS (Internship)
+### 💼 Work Experience:
 
-🎓 Education:
-- Copenhagen Business Academy, Bachelor of Applied Science, Softwaredevelopment
-- Copenhagen Business Academy, Datamatiker AK, Computer Science
+#### [MAN Energy Solutions](https://www.linkedin.com/company/manenergysolutions/mycompany/)
+- **Role:** Student Assistant
+- **Type:** Part-time
+- **Duration:** Sep 2023 to Present
+- **Location:** Denmark · On-site
 
-🏆 Certs:
-- Pre Security on Tryhackme.com
+#### [NorthTech ApS](https://www.linkedin.com/company/northtech/)
+- **Role:** Intern
+- **Type:** Full-time
+- **Duration:** Aug 2022 - Dec 2022 · 5 months
+- **Location:** Denmark · On-site
 
-🔧 A small preview of some of my technical skills:
-- Linux
-- Python
-- TypeScript
-- Java
-- JavaScript
-- Machine Learning / AI-development
-- Different DBs (MYSQL, MSSQL, Neo4J, Redis, MongoDB)
-- T-SQL
-- Git
-- React
-- Angular
+---
+
+### 🎓 Education:
+
+#### Master of Science, Computer Science
+- **Institution:** [Roskilde University](https://www.linkedin.com/school/roskilde-university/)
+- **Duration:** Sep 2024 - Present
+
+#### Bachelor of Applied Science, Software Development
+- **Institution:** [Copenhagen Business Academy](https://www.linkedin.com/school/copenhagen-business-academy/)
+- **Duration:** Jan 2023 - Jun 2024
+
+#### AP Graduate in Computer Science
+- **Institution:** [Copenhagen Business Academy](https://www.linkedin.com/school/copenhagen-business-academy/)
+- **Duration:** Aug 2020 - Jan 2023
+
+---
+
+### 🏆 Certifications:
+- **Pre Security** on Tryhackme.com
+
+---
+
+Feel free to reach out for collaboration or any inquiries. Looking forward to connecting with professionals and contributing to exciting projects!
